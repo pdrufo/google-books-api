@@ -1,0 +1,17 @@
+.searchbar {
+    background-color: grey;
+    padding: .5rem;
+    height: 50%;
+}
+.filterbar {
+    background-color: lightgray;
+   height: 50%;
+}
+
+label, input {
+ margin-right: 15px;   
+}
+
+#search {
+    background-color: yellow;
+}
